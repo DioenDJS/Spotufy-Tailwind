@@ -1,4 +1,4 @@
-import { Play as Play, Shuffle, SkipBack, SkipForward, Repeat, Mic2, LayoutList, Volume, Maximize, Laptop2} from 'lucide-react';
+import { Play as Play, Shuffle, SkipBack, SkipForward, Repeat, Mic2, LayoutList, Volume, Maximize2, Laptop2} from 'lucide-react';
 import Image from 'next/image';
 
 export function Footer(){
@@ -39,7 +39,7 @@ export function Footer(){
               <div className="bg-zinc-200 w-10 h-1 rounded-full"></div>  
             </div>
           </div>
-          <Maximize size={20} />
+          <Maximize2 size={20} />
         </div>
       </footer>
     )

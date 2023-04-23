@@ -4,7 +4,7 @@
 <p align="center">
     <img src="https://img.shields.io/static/v1?label=DioenD&message=JS&color=d2cca1&labelColor=757780" alt="DioenD">
     <img src="https://img.shields.io/static/v1?label=NLW eSports&message=02&color=202024&labelColor=41356b" alt="NLW">
-    <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/DioenDJS/Web-E-Sports-" >
+    <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/DioenDJS/Spotufy-Tailwind" >
 </p>
 
 <img src="imagemprojeto.png" alt="image project" />
@@ -48,7 +48,7 @@ Projeto . Desenvolver...
 
 ## Como executar :gear:
 
-- Clone o repositório `https://github.com/DioenDJS/.git`.
+- Clone o repositório `https://github.com/DioenDJS/Spotufy-Tailwind.git`.
 <!-- - Install as dependências com o comando `npm install`. -->
 <!-- - Rode o docker  `docker-compose up` para subir a imagem do postgres. -->
 - Rode o projeto `npm run dev` para iniciar a aplicação.
